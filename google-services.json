@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "59727033451",
+    "firebase_url": "https://contactlist-7aafc.firebaseio.com",
+    "project_id": "contactlist-7aafc",
+    "storage_bucket": "contactlist-7aafc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:59727033451:android:81fedb29af03632a84ad2e",
+        "android_client_info": {
+          "package_name": "ec.edu.tecnologicoloja.contactlist"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "59727033451-lss3s7p7jtt9gv80i0q83f1plllvfm2t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "ec.edu.tecnologicoloja.contactlist",
+            "certificate_hash": "9c71b9151c418f593fb4c7f7990802e1dc9e3481"
+          }
+        },
+        {
+          "client_id": "59727033451-0pl5e1v2bpjhdlrsg44aiq3l4f03rb9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzBCJbztGstdnq5xZt_vwT1GLuHIMlI80"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "59727033451-0pl5e1v2bpjhdlrsg44aiq3l4f03rb9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
